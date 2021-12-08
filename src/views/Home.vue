@@ -1,7 +1,8 @@
 <template>
   <div class="home">
+    Welcome to Hobby-Hunter
     <img alt="Vue logo" src="../assets/logo.png">
-    <JiuJitsu msg="Welcome to Your Vue.js + TypeScript App"/>
+    <JiuJitsu/>
   </div>
 </template>
 
