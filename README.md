@@ -17,6 +17,8 @@ The current plan is to have 4 different apps that will be separated by cards and
 
 These are just my main hobbies that I would find helpful to use for this, but this list can grow as I grow in my interests. (And can also shrink as I mature and narrow down what I'm interested in).
 
+Note: I would also like or this to eventually become a progressive web app, or a native app using nativescript.
+
 ## Project setup
 ```
 npm install
