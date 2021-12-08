@@ -6,6 +6,8 @@
 
 "Perfect Practice Makes Perfect."
 
+"One step at a time, all the time."
+
 -----
 The current plan is to have 4 different apps that will be separated by cards and modules that will have their own routes.
 
